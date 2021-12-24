@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/images/users/offer1.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/users/offer2.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "3",
+    "image": "/assets/images/users/offer3.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "4",
+    "image": "/assets/images/users/offer1.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "5",
+    "image": "/assets/images/users/offer2.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "6",
+    "image": "/assets/images/users/offer3.png",
+    "url": "/shop/grid-left-sidebar"
+  }
+]

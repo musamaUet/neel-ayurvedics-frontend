@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/images/users/new1.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/users/new2.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "3",
+    "image": "/assets/images/users/new3.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "4",
+    "image": "/assets/images/users/new4.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "1",
+    "image": "/assets/images/users/new1.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/users/new2.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "3",
+    "image": "/assets/images/users/new3.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "4",
+    "image": "/assets/images/users/new4.png",
+    "url": "/shop/grid-left-sidebar"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/images/categories/health1.png",
+    "pera": "Arthritis & Rheumatism",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/categories/health2.png",
+    "pera": "Diabetes",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "3",
+    "image": "/assets/images/categories/health3.png",
+    "pera": "Hair Fall",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "4",
+    "pera": "Low Height",
+    "image": "/assets/images/categories/health4.png",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "5",
+    "image": "/assets/images/categories/health5.png",
+    "pera": "Headache & Migraine",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "6",
+    "image": "/assets/images/categories/health6.png",
+    "pera": "Obesity",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "7",
+    "image": "/assets/images/categories/health7.png",
+    "pera": "Snoring",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "8",
+    "image": "/assets/images/categories/health8.png",
+    "pera": "Piles & Fissures",
+    "url": "/shop/grid-left-sidebar"
+  }
+]

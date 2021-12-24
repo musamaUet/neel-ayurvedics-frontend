@@ -1,0 +1,152 @@
+
+/*=============================================
+=            category            =
+=============================================*/
+
+.category-overlap {
+  position: relative;
+  z-index: 1;
+
+  margin-top: 0;
+  padding: 0px;
+
+  border-radius: 5px;
+  background-color: $white;
+  box-shadow: none;
+
+  .slider-nav-wrapper {
+    .ht-swiper-button-nav {
+      font-size: 25px;
+      line-height: 40px;
+
+      position: absolute;
+      z-index: 9;
+
+      width: 40px;
+      height: 40px;
+      padding: 0;
+
+      opacity: 0;
+      color: $black--six;
+      border: none;
+      border-radius: 4px;
+      background: none;
+      background-color: $theme-color--default;
+      box-shadow: 0 0 10px rgba($black,0.1);
+
+      &:hover {
+        background-color: $theme-color--default;
+        i {
+          color: $white;
+        }
+      }
+
+      i {
+        font-size: 17px;
+
+        color: #fff;
+      }
+
+      &.swiper-button-prev {
+        left: 0;
+
+        &:after {
+          display: none;
+        }
+      }
+
+      &.swiper-button-next {
+        right: 0;
+
+        &:after {
+          display: none;
+        }
+      }
+    }
+  }
+
+  &:hover {
+    .ht-swiper-button-nav {
+      opacity: 1;
+      &.swiper-button-prev {
+        left: 0px;
+      }
+      &.swiper-button-next {
+        right: 0px;
+      }
+    }
+  }
+}
+
+.categories-box {
+  text-align: center;
+  flex: 0 0 70px;
+    margin-right: 5px;
+  a {
+    display: block;
+
+    padding: 10px 0px;
+
+    background-color: #fff;
+
+    img{
+      width: 60%;
+      border-radius: 50%;
+      box-shadow:none;
+      padding: 0px;
+
+      @include respond (extra-small-mobile) {
+        width: 80%;
+      }
+    }
+
+@include respond (extra-small-mobile) {
+      padding: 10px 10px;
+    }
+  }
+  
+  i {
+    font-size: 40px;
+
+    display: block;
+  }
+  span {
+    display: block;
+
+    margin-top: 5px;
+
+    text-overflow: ellipsis;
+        display: block;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        line-height: 15px;
+        max-height: 15px;
+
+@include respond (extra-small-mobile) {
+        font-size: 11px;
+        color: #464646;
+        text-overflow: ellipsis;
+        display: block;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        line-height: 15px;
+        max-height: 15px;
+    }
+  }
+
+  &--style-two {
+    a {
+      padding: 0;
+
+      background-color: transparent;
+    }
+  }
+}
+
+
+/*=====  End of category  ======*/
+

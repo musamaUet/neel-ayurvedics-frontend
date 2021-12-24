@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "Image": "/assets/images/categories/category1.png",
+    "title": "Bedroom",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "2",
+    "Image": "/assets/images/categories/category2.png",
+    "title": "Dining Table",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "3",
+    "Image": "/assets/images/categories/category3.png",
+    "title": "Sofa",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "4",
+    "Image": "/assets/images/categories/category4.png",
+    "title": "Armchair",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "5",
+    "Image": "/assets/images/categories/category5.png",
+    "title": "Chair",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "6",
+    "Image": "/assets/images/categories/category6.png",
+    "title": "Desk Lamp",
+    "url": "/shop/grid-left-sidebar"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/images/brand-logo/brand1.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "2",
+    "image": "/assets/images/brand-logo/brand2.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "3",
+    "image": "/assets/images/brand-logo/brand3.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "4",
+    "image": "/assets/images/brand-logo/brand4.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "5",
+    "image": "/assets/images/brand-logo/brand5.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "6",
+    "image": "/assets/images/brand-logo/brand6.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "7",
+    "image": "/assets/images/brand-logo/brand7.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  },
+  {
+    "id": "8",
+    "image": "/assets/images/brand-logo/brand8.png",
+    "pera": "Humdard",
+    "url": "/shop/grid-left-sidebar"
+  }
+]

@@ -1,0 +1,544 @@
+[
+  
+  {
+    "id": "19",
+    "createDate": "Mar 29 2020 10:10:00 AM",
+    "sku": "asdf119",
+    "name": "Lorem ipsum electronics one",
+    "slug": "lorem-ipsum-electronics-one",
+    "stock": 20,
+    "price": 10,
+    "discount": 0,
+    "featured": false,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 40,
+    "saleCount": 30,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product1.jpg",
+      "/assets/images/product/electronics/product1.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/1.jpg",
+      "/assets/images/product/electronics/2.jpg",
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "20",
+    "createDate": "Mar 01 2020 10:10:00 AM",
+    "sku": "asdf120",
+    "name": "Lorem ipsum electronics two",
+    "slug": "lorem-ipsum-electronics-two",
+    "stock": 30,
+    "price": 15,
+    "discount": 5,
+    "featured": false,
+    "new": false,
+    "rating": 4,
+    "ratingCount": 30,
+    "saleCount": 20,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product2.jpg",
+      "/assets/images/product/electronics/product2.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/2.jpg",
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "21",
+    "createDate": "Mar 02 2020 10:10:00 AM",
+    "sku": "asdf121",
+    "name": "Lorem ipsum electronics three",
+    "slug": "lorem-ipsum-electronics-three",
+    "stock": 20,
+    "price": 18,
+    "discount": 15,
+    "featured": true,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product3.jpg",
+      "/assets/images/product/electronics/product3.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "22",
+    "createDate": "Mar 03 2020 10:10:00 AM",
+    "sku": "asdf122",
+    "name": "Lorem ipsum electronics four",
+    "slug": "lorem-ipsum-electronics-four",
+    "stock": 30,
+    "price": 19,
+    "discount": 20,
+    "featured": false,
+    "new": false,
+    "rating": 5,
+    "ratingCount": 25,
+    "saleCount": 15,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product4.jpg",
+      "/assets/images/product/electronics/product4.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "23",
+    "createDate": "Mar 04 2020 10:10:00 AM",
+    "sku": "asdf123",
+    "name": "Lorem ipsum electronics five",
+    "slug": "lorem-ipsum-electronics-five",
+    "stock": 20,
+    "price": 9,
+    "discount": 10,
+    "featured": true,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product5.jpg",
+      "/assets/images/product/electronics/product5.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg",
+      "/assets/images/product/electronics/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "24",
+    "createDate": "Mar 05 2020 10:10:00 AM",
+    "sku": "asdf124",
+    "name": "Lorem ipsum electronics six",
+    "slug": "lorem-ipsum-electronics-six",
+    "stock": 20,
+    "price": 9,
+    "discount": 10,
+    "featured": true,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product6.jpg",
+      "/assets/images/product/electronics/product6.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg",
+      "/assets/images/product/electronics/9.jpg",
+      "/assets/images/product/electronics/10.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "19",
+    "createDate": "Mar 29 2020 10:10:00 AM",
+    "sku": "asdf119",
+    "name": "Lorem ipsum electronics one",
+    "slug": "lorem-ipsum-electronics-one",
+    "stock": 20,
+    "price": 10,
+    "discount": 0,
+    "featured": false,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 40,
+    "saleCount": 30,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product1.jpg",
+      "/assets/images/product/electronics/product1.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/1.jpg",
+      "/assets/images/product/electronics/2.jpg",
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "20",
+    "createDate": "Mar 01 2020 10:10:00 AM",
+    "sku": "asdf120",
+    "name": "Lorem ipsum electronics two",
+    "slug": "lorem-ipsum-electronics-two",
+    "stock": 30,
+    "price": 15,
+    "discount": 5,
+    "featured": false,
+    "new": false,
+    "rating": 4,
+    "ratingCount": 30,
+    "saleCount": 20,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product2.jpg",
+      "/assets/images/product/electronics/product2.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/2.jpg",
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "21",
+    "createDate": "Mar 02 2020 10:10:00 AM",
+    "sku": "asdf121",
+    "name": "Lorem ipsum electronics three",
+    "slug": "lorem-ipsum-electronics-three",
+    "stock": 20,
+    "price": 18,
+    "discount": 15,
+    "featured": true,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product3.jpg",
+      "/assets/images/product/electronics/product3.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "22",
+    "createDate": "Mar 03 2020 10:10:00 AM",
+    "sku": "asdf122",
+    "name": "Lorem ipsum electronics four",
+    "slug": "lorem-ipsum-electronics-four",
+    "stock": 30,
+    "price": 19,
+    "discount": 20,
+    "featured": false,
+    "new": false,
+    "rating": 5,
+    "ratingCount": 25,
+    "saleCount": 15,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product4.jpg",
+      "/assets/images/product/electronics/product4.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "23",
+    "createDate": "Mar 04 2020 10:10:00 AM",
+    "sku": "asdf123",
+    "name": "Lorem ipsum electronics five",
+    "slug": "lorem-ipsum-electronics-five",
+    "stock": 20,
+    "price": 9,
+    "discount": 10,
+    "featured": true,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product5.jpg",
+      "/assets/images/product/electronics/product5.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg",
+      "/assets/images/product/electronics/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "24",
+    "createDate": "Mar 05 2020 10:10:00 AM",
+    "sku": "asdf124",
+    "name": "Lorem ipsum electronics six",
+    "slug": "lorem-ipsum-electronics-six",
+    "stock": 20,
+    "price": 9,
+    "discount": 10,
+    "featured": true,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product6.jpg",
+      "/assets/images/product/electronics/product6.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg",
+      "/assets/images/product/electronics/9.jpg",
+      "/assets/images/product/electronics/10.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "19",
+    "createDate": "Mar 29 2020 10:10:00 AM",
+    "sku": "asdf119",
+    "name": "Lorem ipsum electronics one",
+    "slug": "lorem-ipsum-electronics-one",
+    "stock": 20,
+    "price": 10,
+    "discount": 0,
+    "featured": false,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 40,
+    "saleCount": 30,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product1.jpg",
+      "/assets/images/product/electronics/product1.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/1.jpg",
+      "/assets/images/product/electronics/2.jpg",
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "20",
+    "createDate": "Mar 01 2020 10:10:00 AM",
+    "sku": "asdf120",
+    "name": "Lorem ipsum electronics two",
+    "slug": "lorem-ipsum-electronics-two",
+    "stock": 30,
+    "price": 15,
+    "discount": 5,
+    "featured": false,
+    "new": false,
+    "rating": 4,
+    "ratingCount": 30,
+    "saleCount": 20,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product2.jpg",
+      "/assets/images/product/electronics/product2.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/2.jpg",
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "21",
+    "createDate": "Mar 02 2020 10:10:00 AM",
+    "sku": "asdf121",
+    "name": "Lorem ipsum electronics three",
+    "slug": "lorem-ipsum-electronics-three",
+    "stock": 20,
+    "price": 18,
+    "discount": 15,
+    "featured": true,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product3.jpg",
+      "/assets/images/product/electronics/product3.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/3.jpg",
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "22",
+    "createDate": "Mar 03 2020 10:10:00 AM",
+    "sku": "asdf122",
+    "name": "Lorem ipsum electronics four",
+    "slug": "lorem-ipsum-electronics-four",
+    "stock": 30,
+    "price": 19,
+    "discount": 20,
+    "featured": false,
+    "new": false,
+    "rating": 5,
+    "ratingCount": 25,
+    "saleCount": 15,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product4.jpg",
+      "/assets/images/product/electronics/product4.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/4.jpg",
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "23",
+    "createDate": "Mar 04 2020 10:10:00 AM",
+    "sku": "asdf123",
+    "name": "Lorem ipsum electronics five",
+    "slug": "lorem-ipsum-electronics-five",
+    "stock": 20,
+    "price": 9,
+    "discount": 10,
+    "featured": true,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product5.jpg",
+      "/assets/images/product/electronics/product5.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/5.jpg",
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg",
+      "/assets/images/product/electronics/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "24",
+    "createDate": "Mar 05 2020 10:10:00 AM",
+    "sku": "asdf124",
+    "name": "Lorem ipsum electronics six",
+    "slug": "lorem-ipsum-electronics-six",
+    "stock": 20,
+    "price": 9,
+    "discount": 10,
+    "featured": true,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 20,
+    "saleCount": 10,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "thumbImage": [
+      "/assets/images/product/electronics/product6.jpg",
+      "/assets/images/product/electronics/product6.jpg"
+    ],
+    "image": [
+      "/assets/images/product/electronics/6.jpg",
+      "/assets/images/product/electronics/7.jpg",
+      "/assets/images/product/electronics/8.jpg",
+      "/assets/images/product/electronics/9.jpg",
+      "/assets/images/product/electronics/10.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  }
+ 
+]
